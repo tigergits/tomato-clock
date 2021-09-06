@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+.idea/
+.electron-vue/
+build/
+dist/
+package-lock.json
